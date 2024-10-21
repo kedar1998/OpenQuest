@@ -18,8 +18,8 @@ module.exports = {
     extend: {
       colors: {
         primary: {
-          "100": "#FFF1E6",
-          "500": "#FF7000",
+          "100": "#8AA4FF",
+          "500": "#436BFA",
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
         },
